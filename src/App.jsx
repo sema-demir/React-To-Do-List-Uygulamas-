@@ -35,8 +35,7 @@ function App() {
 
   return (
     <div className="container p-3 p-md-5">
-      <h2 className="text-center ">YAPILACAKLAR 
-      <span className="text-danger">LİSTESİ</span>
+      <h2 className="text-center ">YAPILACAKLAR  <span className="text-danger">LİSTESİ</span>
       </h2>
 
       <Form setTodos = {setTodos}/>

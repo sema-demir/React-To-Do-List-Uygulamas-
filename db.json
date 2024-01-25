@@ -1,12 +1,6 @@
 {
   "todos": [
     {
-      "id": "858111f9-be58-4e08-b257-90e99024a2c1",
-      "title": "React projesi yap",
-      "status": "important",
-      "date": "25.01.2024"
-    },
-    {
       "id": "1ffef73f-b873-4441-9a8d-370dec7dff6e",
       "title": "Java script calıs",
       "status": "weekly",
@@ -43,18 +37,6 @@
       "date": "25.01.2024"
     },
     {
-      "id": "3310c576-1145-463d-bb5a-346579e2a4a2",
-      "title": "Githuba commit at",
-      "status": "weekly",
-      "date": "25.01.2024"
-    },
-    {
-      "id": "f8af0cad-60c3-47a9-a2c1-c6f64c45ed3d",
-      "title": "sema pes etme",
-      "status": "daily",
-      "date": "25.01.2024"
-    },
-    {
       "id": "c73f4e5a-9736-4472-8a62-71b727bca2da",
       "title": "javascript",
       "status": "important",
@@ -64,6 +46,48 @@
       "id": "20600a50-4c1f-4e7a-aa40-8108e5145baa",
       "title": "asssdd",
       "status": "job",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "cdcee526-0755-4a30-a332-dfb645043e39",
+      "title": "aaaa",
+      "status": "weekly",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "aae8f2af-99a4-473e-ba4f-6ecc484360a0",
+      "title": "aaaaaaaaaaaa",
+      "status": "daily",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "083861c9-f6ca-4237-a46e-940b75e52f45",
+      "title": "aaaaaa",
+      "status": "important",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "5573698f-3ad4-4cce-975a-914118a1a7b0",
+      "title": "asddddddd",
+      "status": "important",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "74ad9d1e-d802-4f9c-82e5-30ac13d702d6",
+      "title": "asassdd",
+      "status": "job",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "48b73f19-8392-4bb0-adff-bbc2b0e66f14",
+      "title": "assss",
+      "status": "weekly",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "1980c902-8e05-4d9c-b70a-9c335852e4ec",
+      "title": "aaaa",
+      "status": "important",
       "date": "25.01.2024"
     }
   ],
