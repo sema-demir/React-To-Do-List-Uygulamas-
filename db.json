@@ -1,5 +1,78 @@
 {
-  "todos": [],
+  "todos": [
+    {
+      "id": "e26bdcf1-40b6-4f02-a32c-6b8a28189c64",
+      "title": "json server calışşşşşşş",
+      "status": "daily",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "1b488b06-8f07-4258-975f-3072b5748708",
+      "title": "okula git",
+      "status": "important",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "e7b0f01d-02da-4da5-843f-6f13c77876b8",
+      "title": "React projesi yap",
+      "status": "weekly",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "445842cf-959e-48f8-9b21-1b81a6bbb096",
+      "title": "assssss11111",
+      "status": "job",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "a3e5165d-cff0-4721-9319-1fe0dd04c1e1",
+      "title": "aaaaaaa",
+      "status": "Seçiniz",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "51a889c2-c8c5-4093-8740-38421432175e",
+      "title": "akskdjkdj",
+      "status": "daily",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "b4d66ea8-3460-4a84-88e0-4176860f8c6c",
+      "title": "assdkdkd",
+      "status": "job",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "d3663afe-2331-4a96-b7c4-7e8dbd8f1356",
+      "title": "qqwwwqq",
+      "status": "important",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "55dfa81e-1eb4-40eb-a042-6cc914f4f6c8",
+      "title": "ueururur",
+      "status": "weekly",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "e525e5eb-3fe4-4bd1-bcc2-0ecc892d61d1",
+      "title": "hdhdfhfhjfjf",
+      "status": "daily",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "84b12301-dfbb-4e55-a232-871b3c30628b",
+      "title": "hdhdfhfhjfjf",
+      "status": "Seçiniz",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "eef88d28-2b74-4ec5-b0d7-620a38c45003",
+      "title": "ghhghh",
+      "status": "daily",
+      "date": "25.01.2024"
+    }
+  ],
   "users": [
     {
       "id": "1",
