@@ -18,3 +18,4 @@ Axios
 JSON Server (db.json üzerinden veri depolama)
 
 <h3>Ekran Görüntüleri</h3>
+![](todolist.gif)
