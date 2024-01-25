@@ -1,4 +1,4 @@
-import getStatus from "../Helpers.jsx/GetStatus"
+import getStatus from './../Helpers.jsx/GetStatus'
 
 const Content = ({todo, setIsEditMode, handleDelete}) => {
   return (

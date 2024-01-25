@@ -35,7 +35,8 @@ function App() {
 
   return (
     <div className="container p-3 p-md-5">
-      <h2 className="text-center ">YAPILACAKLAR <span className="text-danger">LİSTESİ</span>
+      <h2 className="text-center ">YAPILACAKLAR 
+      <span className="text-danger">LİSTESİ</span>
       </h2>
 
       <Form setTodos = {setTodos}/>
@@ -44,7 +45,12 @@ function App() {
 
       {!todos &&  <Loader /> }
       {todos?.map((todo) => (
-        <ListItem key={todo.id} todo = {todo} setTodos= {setTodos}/>
+        <ListItem 
+        key={todo.id} 
+        todo = {todo} 
+        todos={todos}
+        setTodos= {setTodos}
+        />
       ))}
      </ul>
      <div className="d-flex justify-content-between my-5">

@@ -9,9 +9,10 @@ const ListItem = ({ todo, setTodos, todos }) => {
   const handleDelete = () => {
     axios
       .delete(`/todos/${todo.id}`)
-      .then(() => setTodos(todos => todos.filter(item => item.id !== todo.id)))
+      .then(() => setTodos(todos => 
+        todos.filter(item => item.id !== todo.id)))
   }
-  const handleEdit = e => {
+  const handleEdit = (e) => {
     e.preventDefault()
 
     const newStatus = e.target[0].value
@@ -22,7 +23,6 @@ const ListItem = ({ todo, setTodos, todos }) => {
         title: newTitle,
         status: newStatus
       })
-
       .then(() => {
         const updated = {
           ...todo,

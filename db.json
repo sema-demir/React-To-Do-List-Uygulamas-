@@ -1,75 +1,69 @@
 {
   "todos": [
     {
-      "id": "e26bdcf1-40b6-4f02-a32c-6b8a28189c64",
-      "title": "json server calışşşşşşş",
-      "status": "daily",
-      "date": "25.01.2024"
-    },
-    {
-      "id": "1b488b06-8f07-4258-975f-3072b5748708",
-      "title": "okula git",
-      "status": "important",
-      "date": "25.01.2024"
-    },
-    {
-      "id": "e7b0f01d-02da-4da5-843f-6f13c77876b8",
+      "id": "858111f9-be58-4e08-b257-90e99024a2c1",
       "title": "React projesi yap",
-      "status": "weekly",
-      "date": "25.01.2024"
-    },
-    {
-      "id": "445842cf-959e-48f8-9b21-1b81a6bbb096",
-      "title": "assssss11111",
-      "status": "job",
-      "date": "25.01.2024"
-    },
-    {
-      "id": "a3e5165d-cff0-4721-9319-1fe0dd04c1e1",
-      "title": "aaaaaaa",
-      "status": "Seçiniz",
-      "date": "25.01.2024"
-    },
-    {
-      "id": "51a889c2-c8c5-4093-8740-38421432175e",
-      "title": "akskdjkdj",
-      "status": "daily",
-      "date": "25.01.2024"
-    },
-    {
-      "id": "b4d66ea8-3460-4a84-88e0-4176860f8c6c",
-      "title": "assdkdkd",
-      "status": "job",
-      "date": "25.01.2024"
-    },
-    {
-      "id": "d3663afe-2331-4a96-b7c4-7e8dbd8f1356",
-      "title": "qqwwwqq",
       "status": "important",
       "date": "25.01.2024"
     },
     {
-      "id": "55dfa81e-1eb4-40eb-a042-6cc914f4f6c8",
-      "title": "ueururur",
+      "id": "1ffef73f-b873-4441-9a8d-370dec7dff6e",
+      "title": "Java script calıs",
       "status": "weekly",
       "date": "25.01.2024"
     },
     {
-      "id": "e525e5eb-3fe4-4bd1-bcc2-0ecc892d61d1",
-      "title": "hdhdfhfhjfjf",
+      "id": "f6f64d5e-7dde-43f2-b2b2-65adf35a23ae",
+      "title": "Axios öğren",
+      "status": "job",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "e10f67b1-4570-424d-8f6d-17349303a353",
+      "title": "cuma projesini yap",
       "status": "daily",
       "date": "25.01.2024"
     },
     {
-      "id": "84b12301-dfbb-4e55-a232-871b3c30628b",
-      "title": "hdhdfhfhjfjf",
-      "status": "Seçiniz",
+      "id": "10f6231f-fa6a-46bf-975d-8551dd97daf4",
+      "title": "Okula git",
+      "status": "important",
       "date": "25.01.2024"
     },
     {
-      "id": "eef88d28-2b74-4ec5-b0d7-620a38c45003",
-      "title": "ghhghh",
+      "id": "401c2d9f-4259-4cbb-96d4-abcffe75877c",
+      "title": "Ders calış",
+      "status": "job",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "bf3d0df1-e9d3-477f-8e0a-a0f100169f37",
+      "title": "jb json calıs",
       "status": "daily",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "3310c576-1145-463d-bb5a-346579e2a4a2",
+      "title": "Githuba commit at",
+      "status": "weekly",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "f8af0cad-60c3-47a9-a2c1-c6f64c45ed3d",
+      "title": "sema pes etme",
+      "status": "daily",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "c73f4e5a-9736-4472-8a62-71b727bca2da",
+      "title": "javascript",
+      "status": "important",
+      "date": "25.01.2024"
+    },
+    {
+      "id": "20600a50-4c1f-4e7a-aa40-8108e5145baa",
+      "title": "asssdd",
+      "status": "job",
       "date": "25.01.2024"
     }
   ],
